@@ -8,7 +8,7 @@
 * [Status](#status)
 
 ## General info
-Battleship game is the classic game of naval combat that brings together competition, strategy, and excitement! In head-to-head battle, players search for the enemy's fleet of ships and destroy them one by one. In this project I created a battleship game where player fights against a computer. Game have a command-line interface. 
+Battleship game is the classic game of naval combat that brings together competition, strategy, and excitement! In head-to-head battle, players search for the enemy's fleet of ships and destroy them one by one. In this project I created a battleship game where player fights against a computer. The game has a command line interface.
 
 ## Technologies
 * java - version 15.0.1
